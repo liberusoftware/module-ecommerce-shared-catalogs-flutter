@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-shared-catalogs-flutter",
+  "capabilityKey": "planned:ecommerce:shared-catalogs",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_shared_catalogs_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/shared-catalogs.md",
+  "presentationPlan": "projects/ecommerce/flutter/shared-catalogs.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
